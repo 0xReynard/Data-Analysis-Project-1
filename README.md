@@ -13,19 +13,33 @@ The queries explored various metrics such as the most popular role of current da
 # Data Source
 The queries were run on the DataProfessional Table from the Portfolio database. The table contains columns with information on:
 •	Unique ID: Unique identification tag given to each survey taker
+
 •	DateTaken, TimeTaken, Time Spent: Information on the date survey was taken, time it was taken and duration of the survey.
+
 •	CurrentRole: Current working position of the survey taker
+
 •	SwitchedCareers?: Did the survey taker switch into the Data field from another field
+
 •	YearlySalary: The value of their yearly salary 
+
 •	Industry: Which industry does the survey taker work in? 
+
 •	ProgrammingLanguage : Prominent Programming language used by the survey taker
+
 •	Satisfaction (Scale of 0 to 10): It covered factors such as Salary, Work Life balance, Co-Workers, Management, Upward Mobility, Learning New Things.
+
 •	EaseOfEntryIntoData: Ease of entry into the data field.
+
 •	NewJobInterest: What will the survey taker look for in a new job?
+
 •	Gender: Gender of the survey taker
+
 •	Age: Age of survey taker
-•	Country: Current Country of Survey taker
+
+•	Country: Current Country of the Survey taker
+
 •	Educational Level: Shows the academic level of the survey taker. 
+
 •	Ethnicity: Ethnicity of the survey taker
 
 # Key Metrics
